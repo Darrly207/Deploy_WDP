@@ -1,5 +1,5 @@
 import React from "react";
-import { FaBuilding, FaEnvelope, FaFacebook, FaLinkedin, FaTwitter } from "react-icons/fa";
+import { FaEnvelope, FaFacebook, FaLinkedin, FaTwitter } from "react-icons/fa";
 import Sidebar from '../../components/SidebarCompany';
 
 const CompanyProfile = () => {
