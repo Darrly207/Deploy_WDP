@@ -6,8 +6,7 @@ import JobApplicationPopup from "../components/PopupApply_user";
 import { useState } from "react";
 const JobDetail = () => {
   const [isOpen, setIsOpen] = useState(false);
-  // eslint-disable-next-line @typescript-eslint/no-unused-vars
-  //   const id = useParams().id;
+
   return (
     <div className="flex min-h-screen bg-gray-100 font-sans w-full h-screen overflow-hidden">
       <Siderbar />
